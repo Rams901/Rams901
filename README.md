@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rams901&hide=contribs,prs)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,dart, flutter, docker,aws, fastapi, flask, gcp, githubactions, mongodb, mysql, postman, py, pytorch, r, tensorflow, vscode, )](https://skillicons.dev)
 <!--
 **Rams901/Rams901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
