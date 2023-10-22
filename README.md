@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ramsishammadi@gmail.com**
 
-- ⚡ Fun fact **When Data Speaks Louder Than Words**
+- ⚡ Fun fact **Sometimes, Data Speaks Louder Than Words**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
