@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rams901&label=Profile%20views&color=0e75b6&style=flat" alt="rams901" /> </p>
 
-- 🔭 I’m currently working on [Cicero.ly](https://www.cicero.ly/)
+- 🔭 I’m currently working on [Seeloz](https://www.seeloz.com/)
 
 - 💬 Ask me about **Machine Learning, LLMs, Vector Stores, RAG technique**
 
 - 📫 How to reach me **ramsishammadi@gmail.com**
 
-- ⚡ Fun fact **Sometimes, Data Speaks Louder Than Words**
+- ⚡ Fun fact **Quite often, Data Speaks Louder Than Words**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
